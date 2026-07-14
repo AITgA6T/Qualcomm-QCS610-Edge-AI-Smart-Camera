@@ -12,7 +12,6 @@
 
 ## Performance Metrics
 
-- **AI Model**:
 - AI Model: YOLOv5
 
 ## Hardware
@@ -46,5 +45,6 @@ All processing takes place on the edge device, ensuring better privacy and data 
 
 ### Demo:
 
+<img src="QCS610 Edge AI Smart Camera.assets/media/demo.gif" width="720" />
 
 
