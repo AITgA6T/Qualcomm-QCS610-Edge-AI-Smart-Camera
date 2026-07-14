@@ -16,7 +16,7 @@
 
 ## Hardware
 
-- **Platform**: QCS610
+- **Platform**: [QCS610](https://www.qualcomm.com/internet-of-things/products/q6-series/qcs610)
 - **Cameras**:  USB Camera × 1
 
 ## Software & Toolkit
